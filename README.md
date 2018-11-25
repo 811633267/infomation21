@@ -1,2 +1,2 @@
 # infomation21
-information21
+information
